@@ -1,7 +1,7 @@
 # Logistic Regression Implementation from Scratch
 
 **Author:** Sai Yadavalli  
-**Version:** 1.2
+**Version:** 2.3
 
 A complete implementation of logistic regression using gradient descent, built from scratch with NumPy and featuring comprehensive evaluation metrics.
 
